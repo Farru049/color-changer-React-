@@ -3,13 +3,18 @@
 A simple, interactive React application that allows users to change the background color using preset colors or generate random colors with smooth transitions.
 
 ## 📸 Screenshots
+# Background Color Changer
+
+A simple, interactive React application that allows users to change the background color using preset colors or generate random colors with smooth transitions.
+
+## 📸 Screenshots
 
 ### Main Interface
-!['./Appearance2.png']('./Appearance2.png')
-* view with the color panel and preset colors*
+![Appearance2.png]('./Appearance2.png')
+*View with the color panel and preset colors*
 
 ### Color Change Example
-!['./Appearance1.png']('./Appearance1.png')
+![Appearance1.png]('./Appearance1.png')
 *Example of the application with a changed background color*
 
 ## 🚀 Features
