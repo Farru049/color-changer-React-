@@ -5,11 +5,11 @@ A simple, interactive React application that allows users to change the backgrou
 ## 📸 Screenshots
 
 ### Main Interface
-![Color Changer  View]('./Appearance2.png')
+!['./Appearance2.png']('./Appearance2.png')
 * view with the color panel and preset colors*
 
 ### Color Change Example
-![Color Changer with Background Color]('./Appearance1.png')
+!['./Appearance1.png']('./Appearance1.png')
 *Example of the application with a changed background color*
 
 ## 🚀 Features
