@@ -10,11 +10,11 @@ A simple, interactive React application that allows users to change the backgrou
 ## 📸 Screenshots
 
 ### Main Interface
-![Appearance2.png]('./Appearance2.png')
+![Appearance2.png](https://github.com/Farru049/color-changer-React-/blob/main/Appearance2.png)
 *View with the color panel and preset colors*
 
 ### Color Change Example
-![Appearance1.png]('./Appearance1.png')
+![Appearance](https://github.com/Farru049/color-changer-React-/blob/main/Appearance1.png)
 *Example of the application with a changed background color*
 
 ## 🚀 Features
@@ -37,7 +37,7 @@ A simple, interactive React application that allows users to change the backgrou
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/MohammadFarhaan/color-changer.git
+git clone https://github.com/farru049/color-changer-React-.git
 ```
 
 2. Navigate to the project directory:
@@ -155,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Mohammad Farhaan Ali - [alifarhaan655@gmail.com](mailto:alifarhaan655@gmail.com)
 
-Project Link: [https://github.com/MohammadFarhaan/color-changer](https://github.com/MohammadFarhaan/color-changer)
+Project Link: [https://github.com/MohammadFarhaan/color-changer-React-](https://github.com/MohammadFarhaan/color-changer)
 
 ---
 
