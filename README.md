@@ -155,7 +155,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Mohammad Farhaan Ali - [alifarhaan655@gmail.com](mailto:alifarhaan655@gmail.com)
 
-Project Link: [https://github.com/MohammadFarhaan/color-changer-React-](https://github.com/MohammadFarhaan/color-changer)
 
 ---
 
